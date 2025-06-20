@@ -1,0 +1,1 @@
+Folder ini digunakan untuk menyimpan gambar-gambar yang digunakan dalam aplikasi React Native. Silakan tambahkan gambar yang ingin digunakan di sini, misalnya gambar Luffy dengan nama file seperti luffy.jpg atau luffy.png.
