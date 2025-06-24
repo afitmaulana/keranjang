@@ -22,23 +22,23 @@ const stores: { name: string, products: TProduct[] }[] = [
       name: 'Elektronik Mantap',
       products: [
         { id: 101, name: 'Smartphone AI Terbaru', image: 'https://images.samsung.com/id/smartphones/galaxy-s24-ultra/images/galaxy-s24-ultra-highlights-kv.jpg', price: 19500000, category: 'Elektronik', store: 'Elektronik Mantap' },
-        { id: 102, name: 'Laptop Tipis Ultrabook', image: 'https://p2-ofp.static.pub/fes/cms/2023/04/28/vga8z5j55o3x6s4l4m19g1zwn820so953600.png', price: 12500000, category: 'Elektronik', store: 'Elektronik Mantap' },
-        { id: 103, name: 'Smartwatch Generasi 5', image: 'https://www.garmin.co.id/m/id/g/products/venu-3-s-ivory-soft-gold-010-02785-83-5.png', price: 4500000, category: 'Elektronik', store: 'Elektronik Mantap' },
+        { id: 102, name: 'Laptop Tipis Ultrabook', image: 'https://assets-prd.ignimgs.com/2024/04/30/dell-ultrabook-xps16-1714441524618.png?width=1920', price: 12500000, category: 'Elektronik', store: 'Elektronik Mantap' },
+        { id: 103, name: 'Smartwatch Generasi 5', image: 'https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/plp-x/wearables-v5/0515-2025-huawei-innovative-product-launch/kv/watch-fit4-pro-kv-pc.jpg', price: 4500000, category: 'Elektronik', store: 'Elektronik Mantap' },
       ]
     },
     {
       name: 'Fashion Pria Keren',
       products: [
-        { id: 201, name: 'Kemeja Flanel Kotak', image: 'https://www.uniqlo.com/id/en/products/E460682-000/images/08_E460682-000.jpg', price: 250000, category: 'Fashion', store: 'Fashion Pria Keren' },
-        { id: 202, name: 'Celana Chino Slimfit', image: 'https://www.uniqlo.com/id/en/products/E463859-000/images/09_E463859-000.jpg', price: 350000, category: 'Fashion', store: 'Fashion Pria Keren' },
-        { id: 203, name: 'Sepatu Lari Nyaman', image: 'https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/28c189b8-bb1a-45c1-93c4-978185ad3343/invincible-3-road-running-shoes-0h8j3v.png', price: 750000, category: 'Fashion', store: 'Fashion Pria Keren' },
+        { id: 201, name: 'Kemeja Flanel Kotak', image: 'https://cutoff.id/cdn/shop/files/YELLOWBLACK01_590x.jpg?v=1700210344', price: 250000, category: 'Fashion', store: 'Fashion Pria Keren' },
+        { id: 202, name: 'Celana Chino Slimfit', image: 'https://dynamic.zacdn.com/Sn3CF6WWpbq5rt2LwEdONcEHjsQ=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/bapin-1688-7422283-1.jpg', price: 350000, category: 'Fashion', store: 'Fashion Pria Keren' },
+        { id: 203, name: 'Sepatu Lari Nyaman', image: 'https://contents.mediadecathlon.com/p2694599/k$3a45aa9c5d26b4898d14ea393802ca01/sepatu-lari-anak-kiprun-k500-grip-trail-cross-hitam-hijau-kiprun-8800255.jpg?f=768x0&format=auto', price: 750000, category: 'Fashion', store: 'Fashion Pria Keren' },
       ]
     },
     {
       name: 'Perlengkapan Rumah Tangga',
       products: [
-        { id: 301, name: 'Air Fryer Digital', image: 'https://www.philips.co.id/c-dam/b2c/kitchen/airfryer/combi-7000-series/xxl-connected/connected-airfryer-combi-7000-series-xxl-connected-hd9880-90-v1.png', price: 1200000, category: 'Rumah Tangga', store: 'Perlengkapan Rumah Tangga' },
-        { id: 302, name: 'Blender Multifungsi', image: 'https://www.philips.co.id/c-dam/b2c/master/experience/product-hero-and-launch/blenders/3000-series/id/id-blender-3000-series-core-hr222-large-v2.png', price: 600000, category: 'Rumah Tangga', store: 'Perlengkapan Rumah Tangga' },
+        { id: 301, name: 'Air Fryer Digital', image: 'https://cdn.ruparupa.io/fit-in/400x400/filters:format(webp)/filters:quality(90)/ruparupa-com/image/upload/Products/10580705_1.jpg', price: 1200000, category: 'Rumah Tangga', store: 'Perlengkapan Rumah Tangga' },
+        { id: 302, name: 'Blender Multifungsi', image: 'https://image1ws.indotrading.com/s3/productimages/webp/co18925/p170897/w600-h600/54422fda-fb24-4948-b141-8bf1a6114716w.jpg', price: 600000, category: 'Rumah Tangga', store: 'Perlengkapan Rumah Tangga' },
       ]
     }
 ];
